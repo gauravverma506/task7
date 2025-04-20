@@ -1,0 +1,101 @@
+sale_id,date,customer_name,item,category,quantity,price_per_unit,total_amount,payment_method
+1,2025-02-21,Laura Barrett,Bag,Accessories,4,73.46,293.84,Cash
+2,2025-01-20,James Bryan,T-shirt,Clothing,3,37.68,113.04,UPI
+3,2025-03-12,Cynthia Nelson,Smartphone,Electronics,5,38.16,190.8,Credit Card
+4,2025-02-22,Kathy Deleon,Juice,Food,1,63.33,63.33,UPI
+5,2024-10-23,Carrie Terry,Chocolate,Food,4,108.58,434.32,UPI
+6,2025-03-04,Rachel Lopez,Pen,Stationery,5,149.8,749.0,Net Banking
+7,2025-01-12,Austin Williams,Soda,Food,1,102.53,102.53,Debit Card
+8,2024-12-24,Michael Joseph,Jeans,Clothing,2,44.19,88.38,UPI
+9,2024-12-18,Amber Pratt,Pen,Stationery,5,111.04,555.2,UPI
+10,2025-04-04,Elizabeth Grant,Shoes,Footwear,3,170.63,511.89,Debit Card
+11,2024-10-30,Melanie Jackson,Notebook,Stationery,5,13.69,68.45,Debit Card
+12,2025-01-30,Justin Wilkins,Juice,Food,5,88.41,442.05,Credit Card
+13,2024-12-09,Christine Daniels,Jeans,Clothing,5,59.18,295.9,Cash
+14,2024-12-11,Carolyn Reynolds,Watch,Accessories,3,110.06,330.18,UPI
+15,2025-01-23,Brenda Roberts,Watch,Accessories,3,87.28,261.84,Credit Card
+16,2025-04-01,Marcus Wilson,Notebook,Stationery,2,19.78,39.56,UPI
+17,2024-11-07,Christopher King,Juice,Food,3,181.96,545.88,Cash
+18,2024-11-08,Barbara Jimenez,Chocolate,Food,4,51.13,204.52,UPI
+19,2024-10-23,Matthew Jensen,Soda,Food,2,119.68,239.36,Debit Card
+20,2025-02-26,Darren Butler,Shoes,Footwear,1,5.57,5.57,UPI
+21,2025-01-20,Alexis Hernandez,Chocolate,Food,4,85.5,342.0,Cash
+22,2025-02-19,Jason Elliott V,Shoes,Footwear,5,148.86,744.3,UPI
+23,2025-03-27,Andrea Jones,T-shirt,Clothing,1,124.63,124.63,Debit Card
+24,2025-04-05,Glenda Fletcher,Juice,Food,1,77.61,77.61,Cash
+25,2025-01-20,Amanda Conrad,Shoes,Footwear,2,7.84,15.68,Debit Card
+26,2025-03-26,Carol Huang,Smartphone,Electronics,4,30.79,123.16,UPI
+27,2024-12-23,Gregory Joseph,T-shirt,Clothing,1,150.97,150.97,Cash
+28,2024-11-11,Christopher Fisher,Chocolate,Food,3,182.52,547.56,UPI
+29,2024-11-25,Victoria Peterson,Juice,Food,4,91.41,365.64,Credit Card
+30,2025-03-20,Christopher Evans,Jeans,Clothing,1,8.28,8.28,Net Banking
+31,2025-03-15,Sara Evans,T-shirt,Clothing,1,114.07,114.07,Net Banking
+32,2024-11-12,Raven Martin,Headphones,Electronics,3,48.92,146.76,UPI
+33,2024-12-17,Gary Morgan,Jeans,Clothing,3,179.32,537.96,Credit Card
+34,2024-12-13,Spencer Reid,Notebook,Stationery,2,174.0,348.0,UPI
+35,2025-03-28,Caitlin Barker,Jeans,Clothing,4,104.36,417.44,Credit Card
+36,2025-01-04,Kaitlyn Flowers,Pen,Stationery,2,176.69,353.38,UPI
+37,2025-03-21,Lisa Mosley,Juice,Food,3,15.3,45.9,Net Banking
+38,2025-02-04,Jay Sutton,Juice,Food,2,9.78,19.56,Credit Card
+39,2024-11-23,Elizabeth Richardson,Headphones,Electronics,5,67.44,337.2,UPI
+40,2025-01-31,David Browning,Soda,Food,2,142.14,284.28,UPI
+41,2025-02-16,Cassandra Mcclure DVM,Pen,Stationery,2,155.51,311.02,Cash
+42,2024-12-03,Kevin Thornton,T-shirt,Clothing,4,96.29,385.16,Debit Card
+43,2025-03-21,Amanda Roberts,Chocolate,Food,2,157.69,315.38,UPI
+44,2024-12-08,Michael Flores,Smartphone,Electronics,2,88.12,176.24,UPI
+45,2025-01-15,Maria Moody,Juice,Food,5,163.99,819.95,UPI
+46,2024-10-19,Peter Adams,Shoes,Footwear,4,71.41,285.64,Cash
+47,2025-01-16,Karen Harrison,Bag,Accessories,5,8.36,41.8,Cash
+48,2025-03-25,Christopher Johnston,Smartphone,Electronics,2,84.64,169.28,UPI
+49,2025-03-31,Marcus Coleman,T-shirt,Clothing,3,106.33,318.99,Credit Card
+50,2024-11-23,Robert Strickland,Soda,Food,1,63.93,63.93,Cash
+51,2025-02-28,Courtney Shea,Soda,Food,2,122.84,245.68,Credit Card
+52,2025-01-07,Jeffery Davis,Chocolate,Food,5,26.78,133.9,Debit Card
+53,2025-02-27,Dennis Hahn,Juice,Food,2,38.11,76.22,Debit Card
+54,2024-11-02,Donna Parker,Notebook,Stationery,4,66.86,267.44,Cash
+55,2024-11-30,Taylor Hester,Headphones,Electronics,2,8.09,16.18,Credit Card
+56,2025-02-24,Jeremy Copeland,Watch,Accessories,1,29.46,29.46,Debit Card
+57,2025-03-05,Anthony Day,Shoes,Footwear,2,63.94,127.88,UPI
+58,2025-03-05,Chad Parker,Juice,Food,1,67.19,67.19,Cash
+59,2025-04-12,Daniel Romero,Juice,Food,5,120.77,603.85,UPI
+60,2025-01-05,Samantha Hughes,Smartphone,Electronics,1,56.1,56.1,Debit Card
+61,2024-11-15,Richard Wood,Jeans,Clothing,1,192.54,192.54,Debit Card
+62,2025-01-21,Christine Harrell,Juice,Food,3,86.91,260.73,Credit Card
+63,2024-12-12,Richard Holmes,T-shirt,Clothing,4,160.23,640.92,UPI
+64,2025-02-05,Michelle Cooper,Soda,Food,3,85.19,255.57,Credit Card
+65,2025-04-15,Shawn Ortiz,Pen,Stationery,2,91.54,183.08,Debit Card
+66,2025-01-24,Michael Thomas,Headphones,Electronics,3,131.26,393.78,Net Banking
+67,2025-04-18,Courtney Cooper,Chocolate,Food,2,193.63,387.26,Net Banking
+68,2025-02-02,Suzanne Foster,Pen,Stationery,4,120.12,480.48,Cash
+69,2024-12-19,Gloria Martinez,Jeans,Clothing,1,126.2,126.2,Debit Card
+70,2025-02-20,Robert Taylor II,Shoes,Footwear,3,195.01,585.03,Debit Card
+71,2024-10-21,Diana Olson,Shoes,Footwear,4,62.95,251.8,Debit Card
+72,2024-11-09,Angela Harris,Notebook,Stationery,2,110.49,220.98,UPI
+73,2025-03-14,Barbara Waters,Jeans,Clothing,4,87.03,348.12,Credit Card
+74,2025-03-06,Roger Dodson,Pen,Stationery,5,56.86,284.3,UPI
+75,2024-12-12,Amanda Soto,Bag,Accessories,1,53.76,53.76,UPI
+76,2025-03-15,Jennifer Contreras,Notebook,Stationery,2,133.54,267.08,Cash
+77,2025-02-12,Gabriel Rogers,Shoes,Footwear,2,165.05,330.1,Cash
+78,2024-12-30,Katherine Ryan,T-shirt,Clothing,2,71.43,142.86,Debit Card
+79,2024-11-27,Ashley Thomas,Headphones,Electronics,3,101.61,304.83,Credit Card
+80,2025-03-17,Dwayne Scott,Notebook,Stationery,3,76.12,228.36,Credit Card
+81,2025-01-07,Pamela Martinez,T-shirt,Clothing,4,56.7,226.8,Credit Card
+82,2025-01-09,Cathy Spencer,Notebook,Stationery,3,38.85,116.55,Cash
+83,2025-04-09,Christina Ortiz,Headphones,Electronics,2,170.83,341.66,Credit Card
+84,2025-02-05,Wanda Spears,Juice,Food,2,152.05,304.1,UPI
+85,2024-11-16,Andrea West,Chocolate,Food,2,162.19,324.38,Net Banking
+86,2025-02-26,Lauren Hanson,Smartphone,Electronics,4,179.74,718.96,UPI
+87,2025-03-07,Carla Valdez,Pen,Stationery,3,147.09,441.27,UPI
+88,2025-04-18,Jennifer Walton,Soda,Food,4,95.62,382.48,Cash
+89,2025-04-18,Todd Bean,Juice,Food,1,62.61,62.61,Debit Card
+90,2024-12-14,Marcus Sanford,Smartphone,Electronics,1,55.27,55.27,Net Banking
+91,2025-01-08,Christopher Robinson,Pen,Stationery,5,85.65,428.25,Debit Card
+92,2024-12-30,Lori Branch,Juice,Food,5,9.05,45.25,Credit Card
+93,2024-12-16,Lauren Roberts,Pen,Stationery,3,68.48,205.44,Net Banking
+94,2025-04-09,Dylan Liu,Pen,Stationery,4,186.59,746.36,Credit Card
+95,2025-03-10,Kyle Rojas,Jeans,Clothing,3,70.51,211.53,Credit Card
+96,2025-02-02,Anthony Martin,Pen,Stationery,2,136.89,273.78,UPI
+97,2025-04-18,Patrick Williams,Watch,Accessories,4,129.24,516.96,Net Banking
+98,2024-11-19,Michael Wade,T-shirt,Clothing,1,195.53,195.53,Credit Card
+99,2024-12-04,Edward Cobb,Jeans,Clothing,3,50.03,150.09,Net Banking
+100,2025-03-19,Paul Allen,Smartphone,Electronics,1,113.67,113.67,UPI
